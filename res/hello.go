@@ -1,3 +1,8 @@
+/*
+ * Author : Nemuel Wainaina
+ * Simple PoC for the Alpha Dropper
+*/
+
 package main
 
 import (
